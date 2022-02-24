@@ -68,7 +68,7 @@
   - React + Redux
   - Typescript
   - styled-component
-  - Deploy : Netilfy
+  - Deploy : Firebase
   - Other : Git / GitHub
   - Build Tool (Create React App)
   - Code Quality Tool (Prettier)
